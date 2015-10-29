@@ -1,0 +1,20 @@
+<-------Startup------------->
+1.Layout
+2.Landing link with same page.
+3.Make .html File for html codong.
+4.Make .css File for styling of the webisite.
+5.Make Script Folder for .js Files coding.
+6.Make Image Folder for keep the All images in that Folder.
+
+
+>----------------------------------------------------------------------->
+--------------First Page-------
+This is the landing page of the website.
+
+• Title “Flower Catalog” at the top.
+
+• Image of flowers
+
+• Links to pages of Abeliophyllum, Ageratum and a guest book.
+
+• A watering Jar image, which when clicked will hide for a second
