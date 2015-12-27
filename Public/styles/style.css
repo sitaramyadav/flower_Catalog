@@ -1,0 +1,11 @@
+section {
+	display: inline-flex;
+}
+
+h1 {
+	color: orange;
+}
+
+.hidden {
+	visibility: hidden;
+}
